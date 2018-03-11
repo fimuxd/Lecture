@@ -17,7 +17,7 @@
 ### 2. 협업
 
 * <img src = "https://zeplin.io/img/favicon/256x256.png" width = 25> Zeplin
-* <img src = "http://www.stickpng.com/assets/images/58482beecef1014c0b5e4a36.png" width = 25> Trello
+* <img src = "https://seeklogo.com/images/T/trello-logo-CE7B690E34-seeklogo.com.png" width = 25> Trello
 * <img src = "https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png" width = 25> Slack
 
 ### 3. Git 관리
