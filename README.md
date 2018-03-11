@@ -4,7 +4,7 @@
 
 ## A. 강의 자료 (keynote)
 
-[다운로드](https://github.com/fimuxd/Lecture/blob/master/패캠%20특강%201.key)
+[다운로드](https://github.com/fimuxd/Lecture/raw/master/패캠%20특강%201.key)
 
 ## B. 사용 중인 Tools
 
