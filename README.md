@@ -58,5 +58,5 @@
 
 > 다음 경로를 통해 저를 소환하실 수 있습니다. 
 
-* iosdeveloperkr@gmail.com
+* me@boyoung.dev
 * swiftkorea.slack.com (`@보영`으로 DM)
